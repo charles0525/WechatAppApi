@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+您 Web 项目的发布/打包进程将使用此文件。您可以通过编辑此 MSBuild 文件
+来自定义该进程的行为。若要了解与此相关的详细信息，请访问 http://go.microsoft.com/fwlink/?LinkID=208121。
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>E:\站点\inetpub\xcx.shuihulu.com</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="ApplicationInsights.config">
+      <publishTime>02/22/2017 14:21:00</publishTime>
+    </File>
+    <File Include="Areas/Pc/Views/web.config">
+      <publishTime>02/22/2017 14:21:01</publishTime>
+    </File>
+    <File Include="Areas/Wap/Views/web.config">
+      <publishTime>02/22/2017 14:21:01</publishTime>
+    </File>
+    <File Include="Areas/WeChatApp/Views/web.config">
+      <publishTime>02/22/2017 14:21:01</publishTime>
+    </File>
+    <File Include="bin/ApplicationInsights.config">
+      <publishTime>02/22/2017 14:21:00</publishTime>
+    </File>
+    <File Include="bin/Dapper.dll">
+      <publishTime>02/22/2017 14:21:00</publishTime>
+    </File>
+    <File Include="bin/FYL.API.dll">
+      <publishTime>02/22/2017 17:06:47</publishTime>
+    </File>
+    <File Include="bin/FYL.BLL.dll">
+      <publishTime>02/22/2017 15:22:22</publishTime>
+    </File>
+    <File Include="bin/FYL.Common.dll">
+      <publishTime>02/22/2017 15:22:22</publishTime>
+    </File>
+    <File Include="bin/FYL.DAL.dll">
+      <publishTime>02/22/2017 15:22:21</publishTime>
+    </File>
+    <File Include="bin/FYL.Entity.dll">
+      <publishTime>02/22/2017 15:22:21</publishTime>
+    </File>
+    <File Include="bin/FYL.Framework.dll">
+      <publishTime>02/22/2017 15:22:21</publishTime>
+    </File>
+    <File Include="bin/FYL.Pay.dll">
+      <publishTime>02/22/2017 15:22:22</publishTime>
+    </File>
+    <File Include="bin/log4net.dll">
+      <publishTime>02/22/2017 14:20:59</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
+      <publishTime>02/22/2017 14:21:00</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.DependencyCollector.dll">
+      <publishTime>02/22/2017 14:20:58</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.PerfCounterCollector.dll">
+      <publishTime>02/22/2017 14:20:58</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.ServerTelemetryChannel.dll">
+      <publishTime>02/22/2017 14:20:58</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Web.dll">
+      <publishTime>02/22/2017 14:20:58</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.WindowsServer.dll">
+      <publishTime>02/22/2017 14:20:57</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationInsights.dll">
+      <publishTime>02/22/2017 14:20:59</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>02/22/2017 14:20:57</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>02/22/2017 14:20:59</publishTime>
+    </File>
+    <File Include="bin/MySql.Data.dll">
+      <publishTime>02/22/2017 14:20:58</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>02/22/2017 14:20:58</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>02/22/2017 14:20:58</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>02/22/2017 14:20:58</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>02/22/2017 14:20:58</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>02/22/2017 14:20:58</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>02/22/2017 14:20:58</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>02/22/2017 14:20:58</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>02/22/2017 14:20:58</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>02/22/2017 14:20:58</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>02/22/2017 14:20:58</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>02/22/2017 14:20:58</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>02/22/2017 14:20:58</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>02/22/2017 14:20:58</publishTime>
+    </File>
+    <File Include="bin/SHLServiceClient.dll">
+      <publishTime>02/22/2017 14:21:03</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>02/22/2017 14:20:58</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>02/22/2017 14:21:00</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>02/22/2017 14:20:59</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>02/22/2017 14:20:59</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>02/22/2017 14:20:58</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>02/22/2017 14:20:59</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.Deployment.dll">
+      <publishTime>02/22/2017 14:21:00</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.dll">
+      <publishTime>02/22/2017 14:21:00</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.Razor.dll">
+      <publishTime>02/22/2017 14:21:00</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Net.Http.Formatting.resources.dll">
+      <publishTime>01/28/2015 04:02:44</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Web.Helpers.resources.dll">
+      <publishTime>01/28/2015 04:04:32</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Web.Http.resources.dll">
+      <publishTime>01/28/2015 04:02:56</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Web.Http.WebHost.resources.dll">
+      <publishTime>01/28/2015 04:03:48</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Web.Mvc.resources.dll">
+      <publishTime>01/28/2015 04:02:22</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Web.Razor.resources.dll">
+      <publishTime>01/28/2015 04:02:34</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Web.Webpages.Deployment.resources.dll">
+      <publishTime>01/28/2015 04:04:32</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Web.Webpages.Razor.resources.dll">
+      <publishTime>01/28/2015 04:04:32</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Web.Webpages.resources.dll">
+      <publishTime>01/28/2015 04:04:32</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>02/22/2017 14:21:00</publishTime>
+    </File>
+    <File Include="log4net.config">
+      <publishTime>02/22/2017 14:21:00</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>02/22/2017 14:21:00</publishTime>
+    </File>
+    <File Include="ServiceConfigs/RegistryService.xml">
+      <publishTime>02/22/2017 14:21:01</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>02/22/2017 17:06:48</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

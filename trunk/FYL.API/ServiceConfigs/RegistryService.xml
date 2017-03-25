@@ -1,0 +1,6 @@
+<config>
+	<client serviceId="0">
+		<endpoint address="xxxx.svc" id="0"/>
+	</client>
+
+</config>

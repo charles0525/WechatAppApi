@@ -1,0 +1,8 @@
+F:\charles\程序\微信小程序服务接口\FYL\FYL.Entity\bin\Release\FYL.Entity.dll
+F:\charles\程序\微信小程序服务接口\FYL\FYL.Entity\bin\Release\FYL.Entity.pdb
+F:\charles\程序\微信小程序服务接口\FYL\FYL.Entity\obj\Release\FYL.Entity.dll
+F:\charles\程序\微信小程序服务接口\FYL\FYL.Entity\obj\Release\FYL.Entity.pdb
+F:\charles\程序\微信小程序服务接口\weixinapp\trunk\FYL\FYL.Entity\bin\Release\FYL.Entity.dll
+F:\charles\程序\微信小程序服务接口\weixinapp\trunk\FYL\FYL.Entity\bin\Release\FYL.Entity.pdb
+F:\charles\程序\微信小程序服务接口\weixinapp\trunk\FYL\FYL.Entity\obj\Release\FYL.Entity.dll
+F:\charles\程序\微信小程序服务接口\weixinapp\trunk\FYL\FYL.Entity\obj\Release\FYL.Entity.pdb
