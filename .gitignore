@@ -1,0 +1,46 @@
+#customized
+
+bin/
+obj/
+log/
+.vs/
+packages/
+PublishProfiles/
+*.user
+Upload/
+Backup*/
+UpgradeLog*.htm
+Web.config.local
+
+
+# Created by https://www.gitignore.io/api/c++
+
+### C++ ###
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+#*.dll
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
